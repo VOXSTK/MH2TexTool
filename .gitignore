@@ -1,0 +1,27 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# .NET publish output
+publish/
+*.nupkg
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
